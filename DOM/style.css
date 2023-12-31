@@ -1,0 +1,16 @@
+.modify{
+    color: red;
+    font-size: 200px;
+    transform: translateX(300px) rotateX(360deg);
+}
+.main-title{
+    transition: all 1s ease;
+}
+
+.wow{
+    transition: all 1s ease;
+}
+
+.fade{
+    opacity: 0;
+}
